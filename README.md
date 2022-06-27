@@ -1,6 +1,6 @@
 
 ##########
-# Arch Linux Post Install Script
+# Debian Linux Post Install Script
 # Author: Stuart Kirker ( Stu )
 # Version: v1.9, 30-08-2020
 # Source: Personal Use
